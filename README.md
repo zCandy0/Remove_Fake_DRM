@@ -2,6 +2,12 @@
 
 Engilsh | [中文](./README_zh.md) | [日本语](./README_ja.md)
 
+**Do not leave comments about this tool under any EPUB authors, I don't want my favorite novels to be discontinued because of this.**
+
+**Do not leave comments about this tool under any EPUB authors, I don't want my favorite novels to be discontinued because of this.**
+
+**Do not leave comments about this tool under any EPUB authors, I don't want my favorite novels to be discontinued because of this.**
+
 This is a tool for removing **fake DRM encryption** from EPUB files.  
 **Fake DRM encryption** refers to cases where the original author claims that DRM encryption is used, and the EPUB can only be opened with specific software (e.g. iBook). However, in reality, there is no true DRM encryption, instead, special characters are used o protect the EPUB and prevent it from being opened by software like Calibre, which has editing capabilities.  
 **Fake DRM encryption** is not an official term,it's just how I refer to it.
